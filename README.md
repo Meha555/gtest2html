@@ -1,4 +1,7 @@
 # gtest2html
+
+> 参考：https://blog.csdn.net/neil4/article/details/104484792
+
 Convert googletest xml output to html
 
 Use with any xslt processor e.g.
